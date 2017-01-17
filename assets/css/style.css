@@ -1,0 +1,272 @@
+/* COLOR SCHEME */
+/* #E1F5FE light baby blue */
+/* #FFE4CF baby peach, lightest shade */
+/* #FAD6B7 dark peach */
+/* #889690 dark pale green */
+/* #525F6A dark blue, background */
+/* black */
+
+body
+{
+background-color: #525F6A;
+}
+
+h1
+{
+background-color: #FAD6B7; 
+color: white;
+font-size: 3.5em;
+font-family: 'Raleway', sans-serif;
+text-align: center;
+padding-bottom: 20px;
+}
+
+h2
+{
+background: #525F6A;
+text-align: center;
+font-family: 'Raleway', sans-serif;
+font-size: 3.4em;
+text-align: center;
+color: white;
+}
+
+h3
+{
+background: #525F6A;
+text-align: center;
+font-family: 'Raleway', sans-serif;
+font-size: 2em;
+text-align: center;
+color: white;
+}
+
+p
+{
+color: white;
+font-family: sans-serif;
+font-style: Arial;
+text-align: left;
+padding-left: 50px;
+line-height: 1.8em;
+}
+
+/*------------------------Index Pics------------------------*/
+
+a 
+{
+color: white;
+text-decoration: none;
+}
+
+.abtme
+{ 
+background: #525F6A url(../images/aboutme.jpeg) no-repeat center fixed;
+padding: 200px;	
+}
+
+.mywrk
+{
+background: #525F6A url(../images/mywork.jpeg) no-repeat center fixed;
+padding: 200px;	
+}
+
+.resume
+{
+background: #525F6A url(../images/resume.jpeg) no-repeat center fixed;
+padding: 200px;	
+}
+
+.awards
+{
+background: #525F6A url(../images/awards.jpeg) no-repeat center fixed;
+padding: 200px;	
+}
+
+/*-----------------Navigation Bar-----------------*/
+
+
+
+
+
+
+/*--------------------------About Me Page--------------------------*/
+
+.hey
+{
+background-color: #525F6A;
+text-align: left;
+}
+ 
+.hello
+{
+background: #525F6A url(../images/abtme.jpg) no-repeat center;
+padding: 112px;
+}
+
+
+
+
+/*--------------------------------------My Work------------------------------------*/
+
+/*-----------------------------Freshman Year--------------------------*/
+
+.flower
+{
+background: #525F6A url(../images/flower.png) no-repeat center;
+padding: 140px;
+}
+
+.font
+{
+background: #525F6A url(../images/font.png) no-repeat center;
+padding: 140px;
+}
+
+.indent
+{
+text-indent: 20px;
+text-align: left;
+margin-right: 
+}
+/*-----------------------------Sophomore Year--------------------------*/
+
+.whp
+{
+background: #525F6A url(../images/baby.png) no-repeat center;
+padding: 145px;
+}
+
+.chile
+{
+background: #525F6A url(../images/chile.png) no-repeat center;
+padding: 140px;
+}
+
+.jpan
+{
+background: #525F6A url(../images/jpn.jpg) no-repeat center;
+padding: 140px;
+}
+
+.poster
+{
+background: #525F6A url(../images/poster.png) no-repeat center;
+padding: 155px;
+}
+
+.ad
+{
+background: #525F6A url(../images/spanish.png) no-repeat center;
+padding: 155px;
+}
+
+.avatar
+{
+background: #525F6A url(../images/avatar.png) no-repeat center;
+padding: 190px;
+}
+
+.show
+{
+background: #525F6A url(../images/show.png) no-repeat center;
+padding: 130px;
+}
+
+.typography
+{
+background: #525F6A url(../images/beauty.png) no-repeat center;
+padding: 100px;
+}
+
+
+/*------------------------------------Junior Year---------------------------------*/
+
+.ship
+{
+background: #525F6A url(../images/ship.png) no-repeat center;
+padding: 130px;
+}
+
+.logo
+{
+background: #525F6A url(../images/logopt2.JPG) no-repeat center;
+padding: 160px;
+}
+
+.card
+{
+background: #525F6A url(../images/Capture.JPG) no-repeat center;
+padding: 200px;
+}
+
+.livit
+{
+background: #525F6A url(../images/app1.png) no-repeat center;
+padding: 200px;	
+}
+
+.winter
+{
+background: #525F6A url(../images/winter.png) no-repeat center;
+padding: 250px;	
+}
+
+.envelope
+{
+background: #525F6A url(../images/envelope.png) no-repeat center;
+padding: 160px;
+}	
+
+.letterhead
+{
+background: #525F6A url(../images/letterhead.png) no-repeat center;
+padding: 200px;
+}	
+
+.flyer
+{
+background: #525F6A url(../images/flyer.png) no-repeat center;
+padding: 180px;
+}
+
+
+/*-----Senior Capstone-----*/
+
+.coming
+{
+text-align: left;
+font-size: 1.5em; 
+color: white;
+}
+
+
+
+/*--------------------------------Resume Page---------------------------------*/
+
+.proof
+{
+background: #525F6A url(../images/resume2.png) no-repeat center;
+padding: 280px;	
+}
+
+/*----------------------------Achievements Page----------------------------*/
+
+.adobe
+{
+background: #525F6A url(../images/certificate.jpeg) no-repeat center;
+padding: 380px;	
+}
+
+.congressional
+{
+background: #525F6A url(../images/congressional.jpeg) no-repeat center;
+padding: 380px;		
+}
+
+
+
+
+
+
+
