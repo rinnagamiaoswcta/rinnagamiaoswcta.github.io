@@ -230,6 +230,11 @@ background: #525F6A url(../images/flyer.png) no-repeat center;
 padding: 180px;
 }
 
+.eocflyer
+{
+background:#525F6A url(../images/eocflyer.png) no-repeat center;
+padding:180px; 
+}
 
 /*-----Senior Capstone-----*/
 
